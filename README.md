@@ -53,7 +53,7 @@ It is our hope that by demonstrating that YOU can control, measure, connect, and
 * [Powering your projects](/Powering_our_projects)
 * [Lighting LEDs](/Lighting_LEDs)
 * [What about LoRA](/What_about_LoRa)?
-* I need a [display](/We_need_a display)
+* [I need a display](/We_need_a display)
 * [Sensing stress](/Sensing_stress)...
 
 
