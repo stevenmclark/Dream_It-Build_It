@@ -40,21 +40,21 @@ It is our hope that by demonstrating that YOU can control, measure, connect, and
 ## What are the topics?
 
 * Setting up and working with [CircuitPython and Mu](/CircuitPython_and_Mu)
-* Finding and using libraries
-* Prototyping your creations
-* Working with buttons and knobs
-* What about capacitive sensors and rotary encoders?
-* Working with sensors
-* Connecting with WiFi
-* Using Bluetooth
-* Finding your way with GPS
-* Moving things with servos
-* Making some noise!
-* Powering your projects
-* Lighting LEDs
-* What about LoRA?
-* I need a display!
-* Sensing stress...
+* Finding and using [libraries](/Libraries)
+* [Prototyping](/Prototyping) your creations
+* Working with [buttons and knobs](/Buttons_and_Knobs)
+* What about [touch sensors and rotary encoders](/Sensing_Touch)?
+* Working with [sensors](/Other_Sensors)
+* [Connecting with WiFi](/Connecting_with_WiFi)
+* [Using Bluetooth](/Using_Bluetooth)
+* [Finding your way with GPS](/Finding_our_way_with_GPS)
+* [Moving things with servos](/Moving_things_with_servos)
+* [Making some noise!](/Making_some_noise)
+* [Powering your projects](/Powering_our_projects)
+* [Lighting LEDs](/Lighting_LEDs)
+* [What about LoRA](/What_about_LoRa)?
+* I need a [display](/We_need_a display)
+* [Sensing stress](/Sensing_stress)...
 
 
 ### Did we miss something?
