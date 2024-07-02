@@ -39,7 +39,7 @@ It is our hope that by demonstrating that YOU can control, measure, connect, and
 
 ## What are the topics?
 
-* Setting up and working with CircuitPython and Mu
+* Setting up and working with [CircuitPython and Mu](/CircuitPython_and_Mu)
 * Finding and using libraries
 * Prototyping your creations
 * Working with buttons and knobs
