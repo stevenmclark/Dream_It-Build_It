@@ -6,6 +6,7 @@ For this course we will be using a microcontroller board called the [Feather M4 
 
 - set up an easy to use editor called Mu
 - grab the files we need from Adafruit
+- confirm that everything is wroking as expected
 
 Let's get started!
 
