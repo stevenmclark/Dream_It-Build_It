@@ -15,7 +15,7 @@ Open a web browser and navigate to the [Mu](https://codewith.mu/en/download) dow
 
 ## Set up the needed CircuitPython files on your computer
 
-We need a bunch of CircuitPythin files to make things work. To keep track of things it may be best to create a new folder to contain all the files... I think my folder is called "CircuitPython". Once that is available, let's download three (3) .zip archives:
+We need a bunch of CircuitPython files to make things work. To keep track of things it may be best to create a new folder to contain all the files... I think my folder is called "CircuitPython". Once that is available, let's download three (3) .zip archives:
 - the [Adafruit CircuitPython bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240618/adafruit-circuitpython-bundle-9.x-mpy-20240618.zip)
 - the [Adafruit CircuitPython bundle examples](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240618/adafruit-circuitpython-bundle-examples-20240618.zip )
 - the [Adafruit CircuitPython Neopixel 9.x library](http://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/releases/download/6.3.11/adafruit-circuitpython-neopixel-9.x-mpy-6.3.11.zip )
@@ -37,6 +37,9 @@ We need to make sure that we are using the latest stable firmware on the M4. Let
   - the neopixel LED should light and start changing colors, and
   - a new drive should appear with the name CIRCUITPYTHON
 
+<img width="138" alt="Screen Shot 2024-07-07 at 3 08 42 PM" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/64b24170-7b33-479f-9557-aebb65354ee1">
+
+
 ### Transfer the new .UF2 onto the M4
 
 To program the .UF2 file onto the M4 we need to put it in "programming mode". To do this, double click the reset button on the M4.
@@ -48,3 +51,5 @@ The LED will stop cycling through colors and display a constant green. If this d
 Once you are in programing mode, the drive name will change to FEATHERBOOT. Yay!
 
 Now all we do is "drag" the .UF2 file that was downloaded onto the FEATHERBOOT icon. When you do this the M4 LEDs should blink (indicating data transfer) and then the M4 wil reset itself and after a few seconds the CIRCUITPYTHON drive will reappear.
+
+### 
