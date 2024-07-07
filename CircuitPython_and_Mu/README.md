@@ -35,9 +35,11 @@ We need to make sure that we are using the latest stable firmware on the M4. Let
 - Use a USB cable to connect the M4 to your computer. The type of cable will depend on the type of USB ports available on your computer.
 - two things should happen:
   - the neopixel LED should light and start changing colors, and
-  - a new drive should appear with the name CIRCUITPYTHON
+  - a new drive should appear with the name CIRCUITPY
 
-<img width="138" alt="Screen Shot 2024-07-07 at 3 08 42 PM" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/64b24170-7b33-479f-9557-aebb65354ee1">
+https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/a7e0a710-3b35-41e2-9cff-ec68df5df9a1
+
+<img width="138" alt="Screen Shot of CIRCUITPY drive" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/64b24170-7b33-479f-9557-aebb65354ee1">
 
 
 ### Transfer the new .UF2 onto the M4
@@ -50,6 +52,6 @@ The LED will stop cycling through colors and display a constant green. If this d
 
 Once you are in programing mode, the drive name will change to FEATHERBOOT. Yay!
 
-Now all we do is "drag" the .UF2 file that was downloaded onto the FEATHERBOOT icon. When you do this the M4 LEDs should blink (indicating data transfer) and then the M4 wil reset itself and after a few seconds the CIRCUITPYTHON drive will reappear.
+Now all we do is "drag" the .UF2 file that was downloaded onto the FEATHERBOOT icon. When you do this the M4 LEDs should blink (indicating data transfer) and then the M4 wil reset itself and after a few seconds the CIRCUITPY drive will reappear.
 
 ### 
