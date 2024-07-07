@@ -15,7 +15,7 @@ Open a web browser and navigate to the [Mu](https://codewith.mu/en/download) dow
 
 ## Set up the needed CircuitPython files on your computer
 
-We need a bunch of CircuitPython files to make things work. To keep track of things it may be best to create a new folder to contain all the files... I think my folder is called "CircuitPython". Once that is available, let's download three (3) .zip archives:
+We need a bunch of CircuitPython files to make things work. To keep track of things it may be best to create a new folder to contain all the files... I think my folder is called "CircuitPythonStuff_June". Once that is available, let's download three (3) .zip archives:
 - the [Adafruit CircuitPython bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240618/adafruit-circuitpython-bundle-9.x-mpy-20240618.zip)
 - the [Adafruit CircuitPython bundle examples](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240618/adafruit-circuitpython-bundle-examples-20240618.zip )
 - the [Adafruit CircuitPython Neopixel 9.x library](http://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/releases/download/6.3.11/adafruit-circuitpython-neopixel-9.x-mpy-6.3.11.zip )
