@@ -23,6 +23,10 @@ We need a bunch of CircuitPython files to make things work. To keep track of thi
 
 Once these are all in the folder, we can go into the folder and click the "extract here" button. Your computer should extract each .zip archive into a folder with a similar name and all the files should be there.
 
+Here's what my folder looks like -
+
+![Screen Shot 2024-07-07 at 3 25 49 PM](https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/f44ef504-7cbd-46ad-ad74-16b3d7f15285)
+
 Whew! Glad that's all done!! Now we can move on and get the hardware working...
 
 ## Making sure the firmware on the M4 is current
