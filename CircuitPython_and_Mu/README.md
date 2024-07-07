@@ -59,13 +59,15 @@ You now have a M4 running the latest CircuitPython! But, the NeoPixel isn't colo
 It turns out that we need to use the latest NeoPixel library too! So let's get that and place it in the lib folder on CIRCUITPY
 
 We will take the file neopixel.mpy FROM the computer and drag it onto the lib folder in CIRCUITPY. Here's what it looks like on my computer -
+
 ![Screen Shot 2024-07-07 at 3 25 49 PM](https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/f44ef504-7cbd-46ad-ad74-16b3d7f15285)
+
 We want the neopixel.mpy on the third line from the botttom.
 
 And we're going to drag it over onto the lib folder on CIRCUITPY -
 <img width="801" alt="Screen Shot 2024-07-07 at 3 29 26 PM" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/17a46691-d117-415f-a929-ae399a9282b5">
 
-
+The M4 should reset after the file has been transferred and now the NeoPixel should color cycle. **YAY!!**
 
 
 ### Let's make sure we're ready to move on...
