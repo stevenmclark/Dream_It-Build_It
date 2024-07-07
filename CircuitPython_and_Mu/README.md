@@ -26,7 +26,7 @@ Whew! Glad that's all done!! Now we can move on and get the hardware working...
 
 ## Making sure the firmware on the M4 is current
 
-We need to make sure that we are using the latest stable firmware on the M4. Let's do this!
+We need to make sure that we are using the latest stable firmware on the M4. *Let's do this!*
 
 ### Get the latest stable .UF2 file
 - To get the latest stable release we visit the [Feather M4 Express](https://circuitpython.org/board/feather_m4_express/) page. Here on the top right hand side we see "CircuitPython 9.x.x" and that this is the latest **stable** release the will work with the M4. Click the Download .UF2 Now button and save the file to a location you can remember.
