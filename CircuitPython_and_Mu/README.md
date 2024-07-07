@@ -2,7 +2,7 @@
 
 ## Getting set up
 
-For this course we will be using a microcontroller board called the [Feather M4 Express](https://www.adafruit.com/product/3857) made by Adafruit. Feather M4 Express is too long to keep typing out, so let's all it the "M4" from here on. To work with this board we will need to -
+For this course we will be using a microcontroller board called the [Feather M4 Express](https://www.adafruit.com/product/3857) made by Adafruit. Feather M4 Express is too long to keep typing out, so let's call it the "M4" from here on. To work with this board we will need to -
 
 - set up an easy to use editor called Mu
 - grab the files we need from Adafruit
@@ -41,7 +41,7 @@ We need to make sure that we are using the latest stable firmware on the M4. Let
 
 To program the .UF2 file onto the M4 we need to put it in "programming mode". To do this, double click the reset button on the M4.
 
-<< picture here>>
+![image of M4 hghlighting rests button](https://github.com/[username]stevenmclark/Dream_It-Build_It/blob/main/feather_M4_express_reset.jpg?raw=true)
 
 The LED will stop cycling through colors and display a constant green. If this doesn't work the first time, don't worry... Just try again with about half a second between button clicks. Sometimes it takes a few tries to get used to the M4.
 
