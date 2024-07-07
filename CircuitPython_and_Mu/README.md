@@ -68,11 +68,15 @@ And we're going to drag it over onto the lib folder on CIRCUITPY -
 
 <img width="801" alt="Screen Shot 2024-07-07 at 3 29 26 PM" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/17a46691-d117-415f-a929-ae399a9282b5">
 
+Don't worry if your CIRCUITPY doesn't have all the files shown in the screenshot... Your M4 probably only has main.py and the folder lib with neopixel.mpy in it for now.
+
 The M4 should reset after the file has been transferred and now the NeoPixel should color cycle. **YAY!!**
 
 
 ### Let's make sure we're ready to move on...
 
+If your NeoPixel is color cycling, you should be ready to go! If not, we may need to do some debugging...
 
+Some of the info [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/troubleshooting) may be useful.
 
-### 
+## CONGRATULATIONS!! You've already come a long way! You now have a working microcontroller board and are ready to take the next step in your adventure!
