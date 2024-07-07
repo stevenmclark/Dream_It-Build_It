@@ -65,6 +65,7 @@ We will take the file neopixel.mpy FROM the computer and drag it onto the lib fo
 We want the neopixel.mpy on the third line from the botttom.
 
 And we're going to drag it over onto the lib folder on CIRCUITPY -
+
 <img width="801" alt="Screen Shot 2024-07-07 at 3 29 26 PM" src="https://github.com/stevenmclark/Dream_It-Build_It/assets/6100349/17a46691-d117-415f-a929-ae399a9282b5">
 
 The M4 should reset after the file has been transferred and now the NeoPixel should color cycle. **YAY!!**
